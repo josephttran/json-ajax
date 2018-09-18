@@ -1,0 +1,19 @@
+{
+  "animal": [
+    {
+      "name": "Tom",
+      "species": "cat",
+      "action": "meow"
+    },
+    {
+      "name": "Jerry",
+      "species": "dog",
+      "action": "bark"
+    },
+    {
+      "name": "Leo",
+      "species": "tiger",
+      "action": "growl"
+    }
+  ]
+}
